@@ -1,4 +1,4 @@
-[![MasterHead](https://ih1.redbubble.net/image.1468562064.1834/flat,750x,075,f-pad,750x1000,f8f8f8.jpg)
+[![MasterHead](https://www.audero.it/blog/wp-content/uploads/2014/09/front-end-stack.png)
 <h1 align="center">Hi 👋, I'm Yunus Emre Karaca</h1>
 <h3 align="center">I'm trying to be a good and passionate FrontEnd developer.</h3>
 
