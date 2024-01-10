@@ -2,10 +2,6 @@
 <h1 align="center">Hi 👋, I'm Yunus Emre Karaca</h1>
 <h3 align="center">I'm trying to be a good and passionate FrontEnd developer.</h3>
 
-- 📫 How to reach me **linkedin.com/in/yunuskaracaa**
-
-- 📫 How to reach me **instagram.com/yunnuskaraca**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aldosteroon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aldosteroon" height="30" width="40" /></a>
@@ -21,3 +17,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karacayunus&show_icons=true&locale=en" alt="karacayunus" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karacayunus&" alt="karacayunus" /></p>
+
