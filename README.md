@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1024/1*QjuXtByLQg0o6E-bB6Uw7A.png)
+![MasterHead](https://miro.medium.com/v2/resize:fit:1024/1*QjuXtByLQg0o6E-bB6Uw7A.png)
 <h1 align="center">Hi 👋, I'm Yunus Emre Karaca</h1>
 <h3 align="center">I'm trying to be a good and passionate FrontEnd developer.</h3>
 
