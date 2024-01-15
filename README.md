@@ -1,4 +1,6 @@
-<div>![MasterHead](https://interactive-examples.mdn.mozilla.net/media/examples/mdn-info2.png)</div>
+<div>!
+   [MasterHead](https://interactive-examples.mdn.mozilla.net/media/examples/mdn-info2.png)
+</div>
 <h1 align="center">Hi 👋, I'm Yunus Emre Karaca</h1>
 <h3 align="center">I'm try to be a good and passionate FrontEnd developer.</h3>
 
