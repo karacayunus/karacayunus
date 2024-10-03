@@ -23,7 +23,7 @@
     </p>
   </div>
 
-  <div>
+  <div align="right">
     <h3>Languages and Tools:</h3>
     <p>
       <a href="https://www.php.net" target="_blank" rel="noreferrer">
