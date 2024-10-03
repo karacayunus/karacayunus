@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Yunus Emre Karaca</h1>
 <h3 align="center">I'm try to be a good and passionate Fullstack developer.</h3>
-
+<hr>
 <h3 align="center">Connect with me:</h3>
 <hr>
 <p align="center">
