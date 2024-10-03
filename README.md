@@ -41,4 +41,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karacayunus&" alt="karacayunus" /></p>
 
-![snake gif](https://github.com/karacayunus/karacayunus/blob/output/github-contribution-grid-snake.gif)
