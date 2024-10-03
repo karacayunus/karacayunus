@@ -1,5 +1,5 @@
 
-![MasterHead](https://png.pngtree.com/background/20230625/original/pngtree-3d-rendering-of-technology-and-website-development-picture-image_4044017.jpg)
+![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPC-za0hbS7sTCkEDbG-788okxiUeOvzbG9A&s)
 
 
 <h1 align="center">Hi 👋, I'm Yunus Emre Karaca</h1>
