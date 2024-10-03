@@ -7,7 +7,7 @@
 
 <hr>
 
-<div>
+<div style="display: flex; justify-content: space-between;">
   <div>
     <h3>Connect with me:</h3>
     <p>
@@ -59,6 +59,7 @@
     </p>
   </div>
 </div>
+
 
 <hr>
 
