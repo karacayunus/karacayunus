@@ -1,4 +1,7 @@
-![MasterHead]([https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg])
+
+![MasterHead](https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg)
+
+
 
 <h1 align="center">Hi 👋, I'm Yunus Emre Karaca</h1>
 <h3 align="center">I'm try to be a good and passionate Software Developer.</h3>
