@@ -2,7 +2,7 @@
    ![MasterHead](https://caglarbostanci.com.tr/wp-content/uploads/2017/04/HTML5-CSS-JS-caglarbostanci-com-tr.png)
 
 <h1 align="center">Hi 👋, I'm Yunus Emre Karaca</h1>
-<h3 align="center">I'm try to be a good and passionate Fullstack developer.</h3>
+<h3 align="center">I'm try to be a good and passionate Software Developer.</h3>
 <hr>
 <h3 align="left">Connect with me:</h3>
 <hr>
