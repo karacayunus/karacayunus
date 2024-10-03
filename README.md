@@ -1,14 +1,12 @@
-
 <p align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/6840/6840478.png" alt="MasterHead" width="150" />
 </p>
-
-
 
 <h1 align="center">Hi 👋, I'm Yunus Emre Karaca</h1>
 <h3 align="center">I'm try to be a good and passionate Software Developer.</h3>
 
 <hr>
+
 <table width="100%">
   <tr>
     <td align="left">
@@ -25,10 +23,7 @@
         </a>
       </p>
     </td>
-    </tr>
-</table>
-<table width="100%">
-  <tr>
+
     <td align="right">
       <h3>Languages and Tools:</h3>
       <p>
@@ -67,8 +62,8 @@
   </tr>
 </table>
 
-
 <hr>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karacayunus&show_icons=true&locale=en&layout=compact" alt="karacayunus" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karacayunus&show_icons=true&locale=en" alt="karacayunus" /></p>
