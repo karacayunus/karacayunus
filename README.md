@@ -7,6 +7,7 @@
 
 <h1 align="center">Hi 👋, I'm Yunus Emre Karaca</h1>
 <h3 align="center">I'm try to be a good and passionate Software Developer.</h3>
+
 <hr>
 <table width="100%">
   <tr>
@@ -24,6 +25,10 @@
         </a>
       </p>
     </td>
+    </tr>
+</table>
+<table width="100%">
+  <tr>
     <td align="right">
       <h3>Languages and Tools:</h3>
       <p>
