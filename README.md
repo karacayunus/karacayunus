@@ -17,7 +17,7 @@
       <a href="https://twitter.com/aldosteroon" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aldosteroon" height="30" width="40" />
       </a>
-      <a align="right" href="https://instagram.com/yunnuskaraca" target="blank">
+      <a href="https://instagram.com/yunnuskaraca" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yunnuskaraca" height="30" width="40" />
       </a>
     </p>
