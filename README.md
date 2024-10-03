@@ -24,7 +24,7 @@
       </p>
     </td>
     <td align="right">
-      <h3>Languages and Tools:</h3>
+      <h3 align="right">Languages and Tools:</h3>
       <p>
         <a href="https://www.php.net" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
