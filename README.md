@@ -8,6 +8,18 @@
 <h1 align="center">Hi 👋, I'm Yunus Emre Karaca</h1>
 <h3 align="center">I'm try to be a good and passionate Software Developer.</h3>
 <hr>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=karacayunus&label=Profile%20views&color=0e75b6&style=flat" alt="karacayunus" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karacayunus" alt="karacayunus" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/aldosteroon" target="blank"><img src="https://img.shields.io/twitter/follow/aldosteroon?logo=twitter&style=for-the-badge" alt="aldosteroon" /></a> </p>
+
+<h3 align="left">Benimle iletişime geçin:</h3>
+<p align="left">
+<a href="https://twitter.com/aldosteroon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aldosteroon" height="30" width="40" /></a>
+</p>
+
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
