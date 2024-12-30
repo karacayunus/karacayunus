@@ -6,7 +6,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Yunus Emre Karaca</h1>
-<h3 align="center">I'm try to be a good and passionate Software Developer.</h3>
+<h3 align="center">I am a curious and passionate Software Developer. I work at IETT. I am an assistant specialist in the IT department.</h3>
 <hr>
 
 
