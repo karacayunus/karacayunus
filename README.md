@@ -15,7 +15,7 @@
 
 <p align="center">
    <a href="https://linkedin.com/in/yunuskaracaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yunuskaracaa" height="30" width="40" /></a>
-   <a href="https://twitter.com/aldosteroon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aldosteroon" height="30" width="40" /></a>
+   <a href="https://twitter.com/aldosteroon" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg](https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg)" alt="aldosteroon" height="30" width="40" /></a>
    <a href="https://instagram.com/yunnuskaraca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yunnuskaraca" height="30" width="40" /></a>
    <hr>
 </p>
