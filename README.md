@@ -35,6 +35,6 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karacayunus&show_icons=true&locale=en" alt="karacayunus" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karacayunus&show_icons=true&locale=en" alt="karacayunus" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karacayunus&" alt="karacayunus" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karacayunus&" alt="karacayunus" /></p>
