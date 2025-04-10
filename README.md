@@ -10,7 +10,6 @@
 <h1 align="center">Hi 👋, I'm Yunus Emre Karaca</h1>
 <h3 align="center">I am a curious and passionate Software Developer. I work as an Assistant Specialist at IETT's Information Technologies Directorate.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karacayunus&label=Profile%20views&color=0e75b6&style=flat" alt="karacayunus" /> </p>
 
 <h3 align="center">Connect with me:</h3>
 
