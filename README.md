@@ -33,3 +33,4 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=karacayunus&show_icons=true&locale=en" alt="karacayunus" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karacayunus&" alt="karacayunus" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fukaraca&label=Profile%20views&color=0e75b6&style=flat" alt="fukaraca" /> </p>
